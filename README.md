@@ -74,7 +74,7 @@ Kunal;-Portfolio-React/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/AnisRah121/Anis-Portfolio-React.git
+git clone https://github.com/kunal-r0209/MyPortfolio
 ```
 
 ## 2️⃣ Navigate into Project
