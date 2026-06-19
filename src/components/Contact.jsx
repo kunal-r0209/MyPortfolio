@@ -7,7 +7,7 @@ const personal = {
   phone: '+91-8438749605',
   location: 'Chennai, TamilNadu, India',
   github: 'https://github.com/kunal-r0209',
-  linkedin: 'https://www.linkedin.com/in/kunal-suresh-99a377415/',
+  linkedin: 'https://www.linkedin.com/in/kunal-suresh0209/',
 }
 
 export default function Contact() {
