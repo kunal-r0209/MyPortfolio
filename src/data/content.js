@@ -110,7 +110,7 @@ export const experience = [
   {
     role: 'Technical Associate',
     company: 'Info Way Solutions, Chennai',
-    period: '2026 – Present',
+    period: 'Feb – Present',
     location: 'Chennai, India',
     points: [
       'Support US-based IT operations by diagnosing and resolving technical issues, maintaining consistent response times.',
@@ -121,7 +121,7 @@ export const experience = [
   {
     role: 'Full Stack Developer Intern',
     company: 'IBC Techno Consultancy Pvt Ltd, Bangalore',
-    period: 'Dec 2025 – Jan 2026',
+    period: 'Dec 2025 – Feb 2026',
     location: 'Bengaluru, India',
     points: [
       'Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js (MERN Stack).',
@@ -131,7 +131,7 @@ export const experience = [
   {
     role: 'Frontend Developer Intern',
     company: 'Pursuit Future Technology, Bangalore',
-    period: 'Oct 2025 – Nov 2025',
+    period: 'Sep 2025 – Nov 2025',
     location: 'Bengaluru, India',
     points: [
       'Built web interfaces using HTML, CSS, JavaScript, Bootstrap, React.js, Node.js.',
@@ -144,7 +144,7 @@ export const education = [
   {
     degree: 'B.Tech — Electronics & Communication Engineering',
     school: 'Manakular Vinayagar Instiute of Techonolgy',
-    period: 'Oct 2022 – May 2026',
+    period: 'Oct 2022 – June 2026',
     location: 'Pondciherry, Tamilnadu',
     gpa: '7.86 / 10',
   },
